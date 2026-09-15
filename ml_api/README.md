@@ -1,9 +1,9 @@
-# Smart Gallery — ML Api
+# Natural Language Image Search — ML Api
 ![image](https://github.com/user-attachments/assets/daa4de53-04fd-4726-8ad8-02144d0c8279)
 
 ___
 ## About
-*Smart Gallery — ML Api is the machine learning microservice of the Smart Gallery project. It is responsible for generating image and text embeddings. The service is built with FastAPI and is designed to integrate seamlessly with other components of the system.*
+*Natural Language Image Search — ML Api is the machine learning microservice of the Natural Language Image Search project. It is responsible for generating image and text embeddings. The service is built with FastAPI and is designed to integrate seamlessly with other components of the system.*
 
 Key features:
 - Generation of embeddings for both images and text  

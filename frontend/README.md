@@ -1,10 +1,10 @@
-# Smart Gallery — Frontend
+# Natural Language Image Search — Frontend
 ![image](https://github.com/user-attachments/assets/4eed90c5-67c1-4f4a-828c-f775d9a00106)
 ![image](https://github.com/user-attachments/assets/ac87ae18-68d4-41b7-a3f3-a3a00a3c2443)
 
 ___
 ## About
-*Smart Gallery — Frontend is the user interface component of the Smart Gallery project, designed for managing photo collections in an intuitive and offline-capable environment. Built using Flet, the frontend provides a responsive multi-page UI that enables users to browse, view, delete, and search images seamlessly.*
+*Natural Language Image Search — Frontend is the user interface component of the Natural Language Image Search project, designed for managing photo collections in an intuitive and offline-capable environment. Built using Flet, the frontend provides a responsive multi-page UI that enables users to browse, view, delete, and search images seamlessly.*
 
 Key features:
 - Multi-page layout with views for browsing, image detail, deletion, and search  

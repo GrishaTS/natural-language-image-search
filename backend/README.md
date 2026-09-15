@@ -1,9 +1,9 @@
-# Smart Gallery — Backend
+# Natural Language Image Search — Backend
 ![image](https://github.com/user-attachments/assets/d0e77c52-7e3e-4d01-887f-855c8411ab42)
 
 ___
 ## About
-*Smart Gallery — Backend is the server-side component of the Smart Gallery project, a photo management system designed to work offline. The backend is built with FastAPI and integrates multiple services to handle image storage, search, and metadata management.*
+*Natural Language Image Search — Backend is the server-side component of the Natural Language Image Search project, a photo management system designed to work offline. The backend is built with FastAPI and integrates multiple services to handle image storage, search, and metadata management.*
 
 Key features:
 - Image upload and retrieval using RESTful APIs

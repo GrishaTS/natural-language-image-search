@@ -6,7 +6,7 @@ from app.config import settings
 
 print(f'Starting server on {settings.ML_API_HOST}:{settings.ML_API_PORT}')
 # Создание экземпляра FastAPI
-app = FastAPI(title="Smart Gallery - ml-api")
+app = FastAPI(title="Natural Language Image Search - ml-api")
 
 # Подключение маршрутов
 app.include_router(router_health)

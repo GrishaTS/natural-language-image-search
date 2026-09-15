@@ -51,13 +51,13 @@ class AppBarMixin:
         text_style = ft.TextStyle(color=ft.colors.BLUE, weight="w500")
         if not self.APP_BAR_TITLE_ROUTE:
             span = ft.TextSpan(
-                "Smart Gallery",
+                "Natural Language Image Search",
                 style=text_style,
-                url="https://github.com/GrishaTS/Smart-Gallery",
+                url="https://github.com/GrishaTS/natural-language-image-search",
             )
         else:
             span = ft.TextSpan(
-                "Smart Gallery",
+                "Natural Language Image Search",
                 style=text_style,
                 on_click=lambda e: self.page.go(self.APP_BAR_TITLE_ROUTE),
             )

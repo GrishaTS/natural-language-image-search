@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "clip-fine-tuning"
 version = "0.1.0"
-description = "Дообучение clip для Smart Gallery"
+description = "Дообучение clip для Natural Language Image Search"
 authors = ["GrishaTS"]
 readme = "README.md"
 

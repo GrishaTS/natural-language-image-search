@@ -144,7 +144,7 @@ class HomeView(BaseView, AppBarMixin):
 
     def _project_structure_tree(self) -> ft.Control:
         root = {
-            "name": "Smart-Gallery/",
+            "name": "natural-language-image-search/",
             "expanded": True,
             "children": [
                 ".env.dev — Development environment variables",
@@ -153,7 +153,7 @@ class HomeView(BaseView, AppBarMixin):
                 {
                     "name": "backend/ ",
                     "suffix": "— Backend",
-                    "link": "https://github.com/GrishaTS/Smart-Gallery/tree/main/backend",
+                    "link": "https://github.com/GrishaTS/natural-language-image-search/tree/main/backend",
                     "children": [
                         ".dockerignore",
                         "Dockerfile",
@@ -195,7 +195,7 @@ class HomeView(BaseView, AppBarMixin):
                 {
                     "name": "frontend/ ",
                     "suffix": "— User Interface",
-                    "link": "https://github.com/GrishaTS/Smart-Gallery/tree/main/frontend",
+                    "link": "https://github.com/GrishaTS/natural-language-image-search/tree/main/frontend",
                     "children": [
                         ".dockerignore",
                         "Dockerfile",
@@ -228,7 +228,7 @@ class HomeView(BaseView, AppBarMixin):
                 {
                     "name": "ml_api/ ",
                     "suffix": "— ML Service",
-                    "link": "https://github.com/GrishaTS/Smart-Gallery/tree/main/ml_api",
+                    "link": "https://github.com/GrishaTS/natural-language-image-search/tree/main/ml_api",
                     "children": [
                         ".dockerignore",
                         "Dockerfile",
@@ -248,7 +248,7 @@ class HomeView(BaseView, AppBarMixin):
                 {
                     "name": "clip_fine_tuning/ ",
                     "suffix": "— Model Fine-tuning",
-                    "link": "https://github.com/GrishaTS/Smart-Gallery/tree/main/clip_fine_tuning",
+                    "link": "https://github.com/GrishaTS/natural-language-image-search/tree/main/clip_fine_tuning",
                     "children": [
                         "pyproject.toml",
                         "requirements.txt",
@@ -300,7 +300,7 @@ class HomeView(BaseView, AppBarMixin):
         about = ft.Column(
             [
                 self._h2("About"),
-                self._para("Smart Gallery is an offline-capable photo management system that integrates:"),
+                self._para("Natural Language Image Search is an offline-capable photo management system that integrates:"),
                 self._bullet("A responsive multi-page UI built with Flet for browsing, searching, and deleting images"),
                 self._bullet("A robust FastAPI-based backend with support for PostgreSQL, MinIO, and Qdrant"),
                 self._bullet("A dedicated ML microservice using CLIP/ruCLIP to enable text-based image search"),

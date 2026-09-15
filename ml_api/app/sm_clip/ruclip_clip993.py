@@ -9,7 +9,7 @@ from app.sm_clip.base_clip import BaseClip
 class RuClipFTClip933(BaseClip):
     """
     Дообученная RuClip модель на clip993  
-    https://github.com/GrishaTS/Smart-Gallery/blob/main/clip_fine_tuning/models/fine-tuning/1.%20ruclip_clip993.ipynb
+    https://github.com/GrishaTS/natural-language-image-search/blob/main/clip_fine_tuning/models/fine-tuning/1.%20ruclip_clip993.ipynb
     """
 
     MODEL_NAME = "ruclip_clip993"

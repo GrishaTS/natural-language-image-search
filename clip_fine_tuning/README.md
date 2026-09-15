@@ -1,11 +1,11 @@
-# Smart Gallery — CLIP Fine-Tuning
+# Natural Language Image Search — CLIP Fine-Tuning
 
 ![image](https://github.com/user-attachments/assets/fd750ddd-ff3a-4aa8-b590-cd266907baf1)  
 *Рисунок 1: Дообучение ruclip на датасете из ≈ 1000 изображений*
 
 ___
 ## About
-*Smart Gallery — CLIP Fine-Tuning is the training and experimentation module of the Smart Gallery project. It is responsible for preparing datasets, fine-tuning CLIP-based models (including ruCLIP), and managing experiments with various configurations. The pipeline supports automatic caption generation using Qwen-2.5, data management via SQLite, and model training in Jupyter notebooks.*
+*Natural Language Image Search — CLIP Fine-Tuning is the training and experimentation module of the Natural Language Image Search project. It is responsible for preparing datasets, fine-tuning CLIP-based models (including ruCLIP), and managing experiments with various configurations. The pipeline supports automatic caption generation using Qwen-2.5, data management via SQLite, and model training in Jupyter notebooks.*
 
 Key features:
 - Dataset preparation using image-text pairs stored in SQLite  

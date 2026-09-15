@@ -8,3 +8,5 @@ free.py
 test.ipynb
 fine-tuned
 hugface
+# API keys
+clip_fine_tuning/dataset/qwen_api_keys.json
